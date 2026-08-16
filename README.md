@@ -6,7 +6,7 @@
 
 ## The Problem
 
-When an H-1B visa holder in the United States loses their job, a legal clock starts immediately. Federal regulation gives them a **maximum 60-day grace period** to either find a new sponsoring employer, change their visa status, or leave the country — whichever comes first.
+Yo whats up! When an H-1B visa holder in the United States loses their job, a legal clock starts immediately. Federal regulation gives them a **maximum 60-day grace period** to either find a new sponsoring employer, change their visa status, or leave the country — whichever comes first.
 
 Most people don't know this rule exists until it's already happening to them. Immigration attorneys are expensive and slow to book during a time-sensitive crisis. And the tool most people reach for instead — a general AI chatbot — is a genuinely dangerous fit for this problem: general models hallucinate, and if one invents a wrong deadline, the cost isn't a bad answer. It's someone's legal status in the country.
 
