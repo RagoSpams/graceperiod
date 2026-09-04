@@ -41,7 +41,7 @@ GracePeriod turns a stressful, confusing legal situation into a clear, personali
 **Frontend:** React, Tailwind CSS, Vite
 **Backend:** Python, Flask
 **AI Platform:** DigitalOcean Gradient AI — managed agent hosting, RAG knowledge base, model orchestration
-**Model:** Claude (Sonnet), selected for grounded, citation-accurate reasoning and native document/image understanding
+**Model:** a hosted LLM, selected for grounded, citation-accurate reasoning and native document/image understanding
 **PDF generation:** Python-based form field mapping onto official USCIS PDF templates
 
 ## Architecture
